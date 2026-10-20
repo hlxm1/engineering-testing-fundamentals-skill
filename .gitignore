@@ -1,0 +1,23 @@
+# Private source material and extraction caches do not belong in this repo.
+*.pdf
+*.epub
+*.docx
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.zip
+*.onnx
+*.odb
+*.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+work/
+ocr/
+book_skill_work/
+full_text.txt
+.DS_Store

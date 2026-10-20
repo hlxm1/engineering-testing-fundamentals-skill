@@ -1,0 +1,44 @@
+{
+  "status": "passed",
+  "date": "2026-10-20",
+  "structural_checks": {
+    "public_text_files": 38,
+    "markdown_files": 19,
+    "checked_relative_links": 41,
+    "chapters": 9,
+    "section_locators": 46,
+    "ocr_pages": 308
+  },
+  "numerical_tests": {
+    "run": 21,
+    "failures": 0,
+    "errors": 0
+  },
+  "example_reference_match": "passed at rel_tol=abs_tol=1e-12",
+  "skill_format_check": "passed",
+  "injection_pattern_scan": {
+    "core_markdown_files": 13,
+    "all_repository_markdown_files": 19,
+    "findings": 0,
+    "scope_note": "Known-pattern advisory checks, not a complete security audit."
+  },
+  "installation_smoke_test": {
+    "file_copy": "passed",
+    "existing_target_refusal": "passed"
+  },
+  "normalized_source_overlap_80_chars": {
+    "markdown_files_with_match": 0,
+    "is_legal_conclusion": false
+  },
+  "token_budget_check": {
+    "encoding": "o200k_base",
+    "master_tokens": 2345,
+    "status": "passed"
+  },
+  "artifact_manifest": {
+    "files_hashed": 35,
+    "check": "passed"
+  },
+  "source_material_published": false,
+  "all_book_formulas_verified": false
+}

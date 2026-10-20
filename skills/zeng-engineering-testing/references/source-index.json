@@ -1,0 +1,568 @@
+{
+  "schema_version": 1,
+  "generated": "2026-10-20",
+  "source": {
+    "title": "工程测试技术基础",
+    "editors": [
+      "曾光奇",
+      "胡均安"
+    ],
+    "reviewer": "卢文祥",
+    "publisher": "华中科技大学出版社",
+    "edition": "2002年3月第1版第1次印刷",
+    "isbn_10": "7-5609-2668-1",
+    "pdf_page_count": 308,
+    "sha256": "f1396ab35114287c331a543db89161a34d3a620afdb09efd4162522856c4524f",
+    "bytes": 11722553,
+    "source_distribution": "Not included; obtain a lawful personal copy."
+  },
+  "pagination": {
+    "body_print_range": [
+      1,
+      294
+    ],
+    "body_pdf_range": [
+      10,
+      303
+    ],
+    "pdf_equals_print_plus": 9,
+    "intro_print_range": [
+      1,
+      5
+    ],
+    "intro_pdf_range": [
+      10,
+      14
+    ],
+    "references_print_range": [
+      293,
+      294
+    ],
+    "references_pdf_range": [
+      302,
+      303
+    ],
+    "other_pdf_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      304,
+      305,
+      306,
+      307,
+      308
+    ],
+    "exceptions": [
+      {
+        "type": "toc_mismatch",
+        "chapter": 4,
+        "section": "4-1",
+        "toc_print_start": 123,
+        "actual_print_start": 122,
+        "actual_pdf_start": 131,
+        "evidence": "PDF131 is the chapter opening (no printed header); PDF130 is printed121, PDF132 is printed123. Use actual chapter opening."
+      }
+    ]
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "信号分析基础",
+      "print_range": [
+        6,
+        43
+      ],
+      "pdf_range": [
+        15,
+        52
+      ],
+      "skill_file": "chapters/ch01-signal-analysis.md",
+      "exercises_start": {
+        "print": 42,
+        "pdf": 51
+      },
+      "sections": [
+        {
+          "id": "1-1",
+          "title": "信息与信号的基础知识",
+          "print_start": 6,
+          "pdf_start": 15,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "1-2",
+          "title": "信号分类",
+          "print_start": 9,
+          "pdf_start": 18,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "1-3",
+          "title": "周期信号的特征",
+          "print_start": 10,
+          "pdf_start": 19,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "1-4",
+          "title": "非周期信号的特征",
+          "print_start": 15,
+          "pdf_start": 24,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "1-5",
+          "title": "随机信号的特征",
+          "print_start": 29,
+          "pdf_start": 38,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "测试装置的静、动态响应特性",
+      "print_range": [
+        44,
+        58
+      ],
+      "pdf_range": [
+        53,
+        67
+      ],
+      "skill_file": "chapters/ch02-system-response.md",
+      "exercises_start": {
+        "print": 57,
+        "pdf": 66
+      },
+      "sections": [
+        {
+          "id": "2-1",
+          "title": "测试装置的静态响应特性",
+          "print_start": 44,
+          "pdf_start": 53,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "2-2",
+          "title": "测试装置的动态响应特性",
+          "print_start": 46,
+          "pdf_start": 55,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "2-3",
+          "title": "不失真测试的条件",
+          "print_start": 54,
+          "pdf_start": 63,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "2-4",
+          "title": "测试装置对典型输入信号的响应",
+          "print_start": 55,
+          "pdf_start": 64,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "工程中常用传感器的转换原理及应用",
+      "print_range": [
+        59,
+        121
+      ],
+      "pdf_range": [
+        68,
+        130
+      ],
+      "skill_file": "chapters/ch03-transducers.md",
+      "exercises_start": {
+        "print": 120,
+        "pdf": 129
+      },
+      "sections": [
+        {
+          "id": "3-1",
+          "title": "传感器概述",
+          "print_start": 59,
+          "pdf_start": 68,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-2",
+          "title": "工程中常用的传感器及其分类",
+          "print_start": 60,
+          "pdf_start": 69,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-3",
+          "title": "电阻式传感器",
+          "print_start": 65,
+          "pdf_start": 74,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-4",
+          "title": "电容式传感器",
+          "print_start": 71,
+          "pdf_start": 80,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-5",
+          "title": "电感式传感器",
+          "print_start": 77,
+          "pdf_start": 86,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-6",
+          "title": "磁电式传感器",
+          "print_start": 81,
+          "pdf_start": 90,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-7",
+          "title": "压电式传感器",
+          "print_start": 84,
+          "pdf_start": 93,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-8",
+          "title": "磁敏传感器",
+          "print_start": 89,
+          "pdf_start": 98,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-9",
+          "title": "热敏传感器",
+          "print_start": 91,
+          "pdf_start": 100,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-10",
+          "title": "气敏传感器",
+          "print_start": 96,
+          "pdf_start": 105,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-11",
+          "title": "超声波传感器",
+          "print_start": 99,
+          "pdf_start": 108,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-12",
+          "title": "光电传感器",
+          "print_start": 103,
+          "pdf_start": 112,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-13",
+          "title": "光纤传感器",
+          "print_start": 108,
+          "pdf_start": 117,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-14",
+          "title": "CCD传感器",
+          "print_start": 110,
+          "pdf_start": 119,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "3-15",
+          "title": "生物传感器",
+          "print_start": 113,
+          "pdf_start": 122,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "title": "智能化传感器简介",
+      "print_range": [
+        122,
+        142
+      ],
+      "pdf_range": [
+        131,
+        151
+      ],
+      "skill_file": "chapters/ch04-smart-sensors.md",
+      "exercises_start": {
+        "print": 142,
+        "pdf": 151
+      },
+      "sections": [
+        {
+          "id": "4-1",
+          "title": "智能传感器",
+          "print_start": 122,
+          "pdf_start": 131,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "4-2",
+          "title": "智能模糊传感器",
+          "print_start": 128,
+          "pdf_start": 137,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "title": "信号调理方法",
+      "print_range": [
+        143,
+        176
+      ],
+      "pdf_range": [
+        152,
+        185
+      ],
+      "skill_file": "chapters/ch05-signal-conditioning.md",
+      "exercises_start": {
+        "print": 176,
+        "pdf": 185
+      },
+      "sections": [
+        {
+          "id": "5-1",
+          "title": "电桥转换原理",
+          "print_start": 143,
+          "pdf_start": 152,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "5-2",
+          "title": "信号的调制与解调",
+          "print_start": 149,
+          "pdf_start": 158,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "5-3",
+          "title": "滤波器原理",
+          "print_start": 159,
+          "pdf_start": 168,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "5-4",
+          "title": "模拟-数字转换原理",
+          "print_start": 170,
+          "pdf_start": 179,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "title": "记录及存储仪器",
+      "print_range": [
+        177,
+        194
+      ],
+      "pdf_range": [
+        186,
+        203
+      ],
+      "skill_file": "chapters/ch06-recording-storage.md",
+      "exercises_start": {
+        "print": 194,
+        "pdf": 203
+      },
+      "sections": [
+        {
+          "id": "6-1",
+          "title": "磁带记录器",
+          "print_start": 177,
+          "pdf_start": 186,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "6-2",
+          "title": "磁盘存储器",
+          "print_start": 185,
+          "pdf_start": 194,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "6-3",
+          "title": "光盘记录器",
+          "print_start": 190,
+          "pdf_start": 199,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "title": "信号分析仪及微机测试系统简介",
+      "print_range": [
+        195,
+        215
+      ],
+      "pdf_range": [
+        204,
+        224
+      ],
+      "skill_file": "chapters/ch07-analyzers-microcomputers.md",
+      "exercises_start": {
+        "print": 215,
+        "pdf": 224
+      },
+      "sections": [
+        {
+          "id": "7-1",
+          "title": "信号分析仪简介",
+          "print_start": 195,
+          "pdf_start": 204,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "7-2",
+          "title": "微机测试系统简介",
+          "print_start": 205,
+          "pdf_start": 214,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "7-3",
+          "title": "微机测试系统应用实例",
+          "print_start": 211,
+          "pdf_start": 220,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "title": "虚拟仪器及工程应用",
+      "print_range": [
+        216,
+        234
+      ],
+      "pdf_range": [
+        225,
+        243
+      ],
+      "skill_file": "chapters/ch08-virtual-instruments.md",
+      "exercises_start": {
+        "print": 234,
+        "pdf": 243
+      },
+      "sections": [
+        {
+          "id": "8-1",
+          "title": "虚拟仪器概述",
+          "print_start": 216,
+          "pdf_start": 225,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "8-2",
+          "title": "虚拟仪器硬件",
+          "print_start": 218,
+          "pdf_start": 227,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "8-3",
+          "title": "虚拟仪器软件的开发平台及应用",
+          "print_start": 221,
+          "pdf_start": 230,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "8-4",
+          "title": "虚拟仪器应用",
+          "print_start": 231,
+          "pdf_start": 240,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "title": "典型非电量参量的测量方法",
+      "print_range": [
+        235,
+        292
+      ],
+      "pdf_range": [
+        244,
+        301
+      ],
+      "skill_file": "chapters/ch09-measurement-methods.md",
+      "exercises_start": {
+        "print": 291,
+        "pdf": 300
+      },
+      "sections": [
+        {
+          "id": "9-1",
+          "title": "振动测量",
+          "print_start": 235,
+          "pdf_start": 244,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "9-2",
+          "title": "位移测量",
+          "print_start": 245,
+          "pdf_start": 254,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "9-3",
+          "title": "速度测量",
+          "print_start": 256,
+          "pdf_start": 265,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "9-4",
+          "title": "噪声测量",
+          "print_start": 262,
+          "pdf_start": 271,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "9-5",
+          "title": "温度测量",
+          "print_start": 272,
+          "pdf_start": 281,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        },
+        {
+          "id": "9-6",
+          "title": "压力测量",
+          "print_start": 285,
+          "pdf_start": 294,
+          "locator_status": "TOC located; chapter4 start corrected against actual sequence"
+        }
+      ]
+    }
+  ]
+}

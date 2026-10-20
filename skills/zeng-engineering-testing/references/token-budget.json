@@ -1,0 +1,22 @@
+{
+  "encoding": "o200k_base",
+  "purpose": "Approximate retrieval-size check; not actual session usage or billing",
+  "markdown_token_counts": {
+    "chapters/ch01-signal-analysis.md": 1400,
+    "chapters/ch02-system-response.md": 1329,
+    "chapters/ch03-transducers.md": 1626,
+    "chapters/ch04-smart-sensors.md": 1200,
+    "chapters/ch05-signal-conditioning.md": 1423,
+    "chapters/ch06-recording-storage.md": 1048,
+    "chapters/ch07-analyzers-microcomputers.md": 1256,
+    "chapters/ch08-virtual-instruments.md": 1119,
+    "chapters/ch09-measurement-methods.md": 1601,
+    "cheatsheet.md": 826,
+    "glossary.md": 865,
+    "patterns.md": 980,
+    "references/formula-audit.md": 1620,
+    "references/learning-path.md": 865,
+    "references/quality-report.md": 918,
+    "SKILL.md": 2345
+  }
+}

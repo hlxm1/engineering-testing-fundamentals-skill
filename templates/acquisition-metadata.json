@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "status": "template-not-measured",
+  "signal_source": null,
+  "sample_rate_hz_per_channel": null,
+  "sample_count_per_channel": null,
+  "start_time_iso8601": null,
+  "hardware_clock_source": null,
+  "trigger": null,
+  "synchronization": {
+    "method": null,
+    "max_channel_skew_s": null
+  },
+  "channels": [
+    {
+      "name": null,
+      "quantity": null,
+      "unit": null,
+      "sensor_id": null,
+      "adc_span_v": null,
+      "gain": null,
+      "scale_to_engineering_units": null,
+      "offset_to_engineering_units": null,
+      "calibration_id": null,
+      "calibration_date": null,
+      "installation_notes": null
+    }
+  ],
+  "anti_alias_filter": {
+    "type": null,
+    "passband_hz": null,
+    "stopband_hz": null,
+    "attenuation_db": null
+  },
+  "processing": {
+    "remove_mean": null,
+    "window": null,
+    "spectrum_type": null,
+    "normalization": null
+  },
+  "data_quality": {
+    "missing_samples": null,
+    "clipped_samples": null,
+    "valid": null
+  },
+  "notes": "Fill in actual accepted hardware parameters; null means unknown, not zero."
+}

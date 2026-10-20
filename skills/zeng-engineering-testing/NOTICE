@@ -1,0 +1,20 @@
+Source attribution
+==================
+Engineering Testing Fundamentals / 工程测试技术基础
+Editors: 曾光奇, 胡均安. Reviewer: 卢文祥.
+Publisher: 华中科技大学出版社. First edition, March 2002.
+ISBN: 7-5609-2668-1.
+
+This repository contains AI-assisted original study notes, decision aids,
+original teaching examples, and original code informed by a user-provided
+copy. It is not an authorized edition, translation, endorsement, or substitute
+for the textbook. It does not include the PDF, page images, full OCR text,
+reproduced long passages, full source-book examples, or publisher tables.
+
+All rights in the textbook and third-party works remain with their respective
+rights holders. The MIT license in this repository covers only original
+repository contributions and does not grant rights in the textbook.
+
+The book-to-skill workflow was used locally as a processing method. Its code
+and OCR models are not redistributed by this repository. Bibliographic and
+method attribution does not imply affiliation or endorsement.

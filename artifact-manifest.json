@@ -1,0 +1,152 @@
+{
+  "schema_version": 1,
+  "generated": "2026-10-20",
+  "algorithm": "sha256",
+  "excluded_reports": [
+    "VALIDATION.md",
+    "artifact-manifest.json",
+    "validation-results.json"
+  ],
+  "files": {
+    ".gitattributes": {
+      "bytes": 72,
+      "sha256": "a3f6d591ef6b39925e65a3b549d46a5fb78d7dec85a2073ca4c5edf4a84caeb7"
+    },
+    ".github/workflows/validate.yml": {
+      "bytes": 422,
+      "sha256": "409415cd73c12b0c23eb7aae88647976705b185eb14c1b03f976f0a3055899b2"
+    },
+    ".gitignore": {
+      "bytes": 248,
+      "sha256": "8070f974a9f6bd3add0c2cfa29604d492475193e20fd92da7b65eb46b6f806ae"
+    },
+    "examples/expected-results.json": {
+      "bytes": 792,
+      "sha256": "be74141529aa35127caa428f38ee44bfaac534eb20694bf0d335827388aa22fb"
+    },
+    "examples/run_examples.py": {
+      "bytes": 1768,
+      "sha256": "640098dc4d316c8657e012d06e5ab74176f0eb5e8679bfcbbf0cf97e247acaa7"
+    },
+    "LICENSE": {
+      "bytes": 1224,
+      "sha256": "17f84f375a1d95f0170b3d836d5884688f3a0f3f2a31274fb4ca521dbbc8e513"
+    },
+    "NOTICE": {
+      "bytes": 1049,
+      "sha256": "37ee55cb8506dd344f8170fb3259dbc66e804b5b1b53826a89ecd803ff4d85db"
+    },
+    "README.md": {
+      "bytes": 4783,
+      "sha256": "84e26c391cb9c190db3943ac40da7c93af72e534c6b9c09a55d1f4dc1707a8f8"
+    },
+    "scripts/install_skill.py": {
+      "bytes": 1123,
+      "sha256": "f4b0380c4901f51f09aa4406a721f66028676ece8ecf19cd0ddf7a1fabe7f801"
+    },
+    "scripts/validate_repo.py": {
+      "bytes": 7019,
+      "sha256": "5c37793f6352e66c89b277cf727e250d0b62b4d28c56e476b88cb975b2a1d185"
+    },
+    "skills/zeng-engineering-testing/chapters/ch01-signal-analysis.md": {
+      "bytes": 4508,
+      "sha256": "5314c99a3a41855ad081ea82378c6db8f5fc2b1eb63af99fa5cabb2b02eacaa0"
+    },
+    "skills/zeng-engineering-testing/chapters/ch02-system-response.md": {
+      "bytes": 4082,
+      "sha256": "ddb753b94dc600c7dcbec123fbb8cead57e89020af99d2ff668037c22891955d"
+    },
+    "skills/zeng-engineering-testing/chapters/ch03-transducers.md": {
+      "bytes": 5100,
+      "sha256": "a6e8d59cf1c18f83f8c2530856a52b2a33dc04ef92d885d84dd533883d57d5bd"
+    },
+    "skills/zeng-engineering-testing/chapters/ch04-smart-sensors.md": {
+      "bytes": 4162,
+      "sha256": "25997cb070cf42b855a872b69f8cbc8dcf2f8384e7d44bcc924c239737126ffd"
+    },
+    "skills/zeng-engineering-testing/chapters/ch05-signal-conditioning.md": {
+      "bytes": 4500,
+      "sha256": "9e6fcd2ffccfba9653e4a632336c2de7ccfe6c4677b001d9a6d56ac298b836fd"
+    },
+    "skills/zeng-engineering-testing/chapters/ch06-recording-storage.md": {
+      "bytes": 3586,
+      "sha256": "70908a3db09a534f36d0a7599883f1b0b107e256fd24b55e09c5565949e012ab"
+    },
+    "skills/zeng-engineering-testing/chapters/ch07-analyzers-microcomputers.md": {
+      "bytes": 4190,
+      "sha256": "aaef3541734fed6da69ff8401347cfd902d43975507d9112b21b2493e251ab16"
+    },
+    "skills/zeng-engineering-testing/chapters/ch08-virtual-instruments.md": {
+      "bytes": 3761,
+      "sha256": "79483b030c8bbf1c8f2f54b06a69b8d09450f51b16fa19d6d08d3097715acb04"
+    },
+    "skills/zeng-engineering-testing/chapters/ch09-measurement-methods.md": {
+      "bytes": 5141,
+      "sha256": "10d39770d7813d38e34b8a3b671e3fe32e0ed1c00a827d7824ca4023c30a357b"
+    },
+    "skills/zeng-engineering-testing/cheatsheet.md": {
+      "bytes": 2593,
+      "sha256": "4575f221ccd099e7304b3a4c2a66155f5fa9b5488014150280cc4c07327bee45"
+    },
+    "skills/zeng-engineering-testing/glossary.md": {
+      "bytes": 2830,
+      "sha256": "f3cd5c550fd77112899287c78f2e540b83cff1c3be090fe3ce5d6693c080e408"
+    },
+    "skills/zeng-engineering-testing/LICENSE": {
+      "bytes": 1224,
+      "sha256": "17f84f375a1d95f0170b3d836d5884688f3a0f3f2a31274fb4ca521dbbc8e513"
+    },
+    "skills/zeng-engineering-testing/NOTICE": {
+      "bytes": 1049,
+      "sha256": "37ee55cb8506dd344f8170fb3259dbc66e804b5b1b53826a89ecd803ff4d85db"
+    },
+    "skills/zeng-engineering-testing/patterns.md": {
+      "bytes": 3172,
+      "sha256": "1cc3393cea8ef41be7818e0e326015c08acd22e5df5a141d0491b4a8cafc3ec9"
+    },
+    "skills/zeng-engineering-testing/references/formula-audit.md": {
+      "bytes": 4481,
+      "sha256": "a47918115f41473e977aa65d037673be911ac18ec73c67d1c97c3f015f1d63e4"
+    },
+    "skills/zeng-engineering-testing/references/learning-path.md": {
+      "bytes": 2635,
+      "sha256": "ec1554659cd0627d93eb36f7719b59b66e0025bd58b8184b30da92664f6cdd5c"
+    },
+    "skills/zeng-engineering-testing/references/ocr-metrics.json": {
+      "bytes": 43122,
+      "sha256": "d0187cb8ff6b114d8b716ab2ba013a450ccbcd2a8e1c355ca8db9acb7c5f3f54"
+    },
+    "skills/zeng-engineering-testing/references/quality-report.md": {
+      "bytes": 3285,
+      "sha256": "73df05b55e27049d1ea7e6900f877cf100711402b26673073bce9d83d87709c5"
+    },
+    "skills/zeng-engineering-testing/references/source-index.json": {
+      "bytes": 15514,
+      "sha256": "36929ab2f58f7066618fe66869da79ca4614391a33379a97088485109652a71a"
+    },
+    "skills/zeng-engineering-testing/references/token-budget.json": {
+      "bytes": 799,
+      "sha256": "223e8b5b95272a8cd0c897dc1abfe82244d133cb0f6193e7a577f490be5cef02"
+    },
+    "skills/zeng-engineering-testing/scripts/testing_math.py": {
+      "bytes": 6636,
+      "sha256": "0cb13eaa041c9b0f9320338cf30d904dfdcf5f5ae2776deb27be5657763be0be"
+    },
+    "skills/zeng-engineering-testing/SKILL.md": {
+      "bytes": 7698,
+      "sha256": "45f6f1e17598fe3b3372f4f9185b53b93ccf947ccb393b50a3a0383503885911"
+    },
+    "templates/acquisition-metadata.json": {
+      "bytes": 1107,
+      "sha256": "3884237510e0adf6ed53fdabeb33bf6a92b7cd733a02d1412333005ce3066a04"
+    },
+    "templates/measurement-plan.md": {
+      "bytes": 1069,
+      "sha256": "c115cc3b94df228eda272dfdc83450c9d7082bd6d2c75579fba0b2d913b0ea25"
+    },
+    "tests/test_testing_math.py": {
+      "bytes": 6005,
+      "sha256": "daa059fc816374416ac545a9cdf954ff047f4038e82ddcb4568332894cd48431"
+    }
+  }
+}

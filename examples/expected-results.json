@@ -1,0 +1,23 @@
+{
+  "notice": "Original teaching inputs, NOT measured data or safety limits",
+  "signal_statistics": {
+    "mean": 1.9999999999999998,
+    "mean_square": 8.5,
+    "variance": 4.500000000000001,
+    "rms": 2.9154759474226504,
+    "ac_rms": 2.121320343559643
+  },
+  "first_order_tau_0.1s_at_1Hz": {
+    "gain": 0.8467330159648304,
+    "phase_deg": -32.14190763534206
+  },
+  "amplitude_only_5pct_limit_hz": 0.5231170005495251,
+  "bridge_output_v": -0.0012493753123438145,
+  "adc_lsb_10Vspan_12bit_v": 0.00244140625,
+  "alias_700Hz_at_1000Hz_hz": 300.0,
+  "rpm_900counts_60ppr_0.5s": 1800.0,
+  "spl_0.02Pa_db": 60.0,
+  "two_uncorrelated_60db_sources_db": 63.01029995663981,
+  "dft_200points_1000Hz_peak_amplitude_50Hz": 3.0000000000000013,
+  "storage_8ch_20ksps_4bytes_1800s_bytes": 1152000000
+}
